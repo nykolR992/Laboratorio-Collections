@@ -1,4 +1,4 @@
-package Plataforma_Solicitud_Taxis;
+package plataforma_solicitud_taxis;
 
 public class MainPlataformaTaxis {
     public static void main(String[] args) {

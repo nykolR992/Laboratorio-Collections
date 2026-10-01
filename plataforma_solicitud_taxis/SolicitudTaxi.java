@@ -1,4 +1,4 @@
-package Plataforma_Solicitud_Taxis;
+package plataforma_solicitud_taxis;
 
 public class SolicitudTaxi {
     private String id;

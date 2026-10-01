@@ -1,4 +1,4 @@
-package Plataforma_Solicitud_Taxis;
+package plataforma_solicitud_taxis;
 
 import java.util.HashMap;
 import java.util.LinkedList;
